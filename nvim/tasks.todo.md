@@ -27,6 +27,10 @@
 * [ ] Familiarize with and try out navigator.lua
         * Separate git branch
 
+### Plugin / config bugs
+
+* [ ] arecibo preview not working
+
 ### Ideas / projects
 
 * [ ] Build online self-documenting system for user-defined commands, plugin opts, etc.
