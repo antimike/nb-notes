@@ -26,7 +26,16 @@
 * [ ] Install LSPs / ensure executables are somewhere on $PATH
 * [ ] Familiarize with and try out navigator.lua
         * Separate git branch
-*
+
+### Ideas / projects
+
+* [ ] Build online self-documenting system for user-defined commands, plugin opts, etc.
+        * Existing plugins:
+                * which-key
+                * Telescope command palette
+        * Libraries / components to use:
+                * [[nvim/plugins/1|impromptu.nvim]]
+* [ ] Floating terminal for help / plugin documentation
 
 ## Tags
 
