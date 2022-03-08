@@ -27,6 +27,11 @@
 * [ ] Familiarize with and try out navigator.lua
         * Separate git branch
 
+### Code runners
+
+* [ ] Implement REPL picker (original use-case for impromptu.nvim)
+* [ ] Ensure all required REPLs are installed / on $PATH
+
 ### Plugin / config bugs
 
 * [ ] arecibo preview not working
