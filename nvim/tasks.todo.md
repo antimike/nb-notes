@@ -20,6 +20,8 @@
         * Simple vim bindings (see GH thread)
         * [ ] Compare md specs across plugins / frameworks
 * [ ] Configure git commits to use floaterm to avoid nested nvim instances (see GH for floaterm)
+* [ ] Competetive programming plugins:
+        * Configure and test
 
 ### LSP stuff
 
