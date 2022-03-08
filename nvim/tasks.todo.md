@@ -4,15 +4,21 @@
 
 * [ ] Finish configuring TS context stuff
         * [ ] Write / test grammar expansion code
-        * [ ] (Optional) Read keybindings from YAML file and compile to Lua
+                * Read keybindings from YAML file and compile to Lua?
 * [ ] Port unimpaired to Lua and document bindings
 * [ ] Install key plugins from before:
         * [ ] Snippets?
         * [ ] Copypaste plugin (prevent register-bumping on delete)
+        * [ ] List / array items manipulation
+                * TS based?
 * [ ] Test / familiarize with md and note-taking plugins
         * [ ] norg
         * [ ] Telekasten
         * [ ] mkdown links
+        * [ ] scientific notes plugin(s)
+* [ ] Implement / integrate plugin(s) with nb
+        * Simple vim bindings (see GH thread)
+        * [ ] Compare md specs across plugins / frameworks
 
 ## Tags
 
