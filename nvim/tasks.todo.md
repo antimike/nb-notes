@@ -19,6 +19,14 @@
 * [ ] Implement / integrate plugin(s) with nb
         * Simple vim bindings (see GH thread)
         * [ ] Compare md specs across plugins / frameworks
+* [ ] Configure git commits to use floaterm to avoid nested nvim instances (see GH for floaterm)
+
+### LSP stuff
+
+* [ ] Install LSPs / ensure executables are somewhere on $PATH
+* [ ] Familiarize with and try out navigator.lua
+        * Separate git branch
+*
 
 ## Tags
 
