@@ -1,1 +1,1 @@
-# [ ] home:nvim/tasks.md
+# [ ] Finish setting up nvim
