@@ -24,6 +24,8 @@
         * Configure and test
 * [ ] Familiarize with / configure splitjoin
 * [ ] Start using literate programming plugin
+        * tangle.nvim
+* [ ] Create vim-sandwich recipes for TS textobjects
 
 ### LSP stuff
 
