@@ -23,6 +23,7 @@
 * [ ] Competetive programming plugins:
         * Configure and test
 * [ ] Familiarize with / configure splitjoin
+* [ ] Start using literate programming plugin
 
 ### LSP stuff
 
