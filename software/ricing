@@ -1,0 +1,10 @@
+# Useful Tricks
+
+* Use `xdotool` to restore focus to original window when spawning another (e.g., image display window):
+```bash
+xdotool getactivewindow > "$TERMWIN_IDFILE"     # Save active window ID
+# ... do other stuff
+xdotool windowfocus "$(cat "$TERMWIN_IDFILE")"
+```
+
+#ricing
